@@ -2,7 +2,6 @@
 
 Sou uma Padawan no universo dev. Sempre apaixonada por técnologia e programação, iniciei está jornada de aprendizando dando meu primeiro  *"Hello world"* 🚀
 
-
 <div>
   <a href="https://github.com/talitaribeirovic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitaribeirovic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
