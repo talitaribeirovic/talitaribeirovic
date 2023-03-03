@@ -1,34 +1,33 @@
-### Olá Eu sou a Talita Ribeiro!👋
+<h2 align="center"> Hi, I'm Talita Ribeiro <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" width="50"></h2>
 
-Sou uma Padawan no universo dev. Sempre apaixonada por técnologia e programação, iniciei está jornada de aprendizando dando meu primeiro  *"Hello world"* 🚀
+<br>
 
-<div>
-  <a href="https://github.com/talitaribeirovic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitaribeirovic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitaribeirovic&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-  
-  ## Tecnólogias que uso: 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="SASS" height="30" width="60" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</div>
- 
- <br>
- 
-  ### Para entrar em contato comigo :
- 
-<div> 
-  <a href = "mailto:talitaribeirovic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/talita-devfrontend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
-![Snake animation](https://github.com/talitaribeirovic/talitaribeirovic/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-</div>
+[![Linkedin: talitaribeirovic](https://img.shields.io/badge/-talitaribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talitaribeirovic/)](https://www.linkedin.com/in/talitaribeirovic/)
+
+
+
+
+<p align="center">
+  <samp> I'm a Front-End developer at <a href="https://devemdobro.com/">Dev em dobro</a>  student and graduation student at <a href="https://ucb.catolica.edu.br/">University Catholic of Brasília</a>. I am a tech enthusiast,  I also enjoy learning new technologies and working on open-source advocate .You can see all the projects I am currently working.
+  </samp>
+  
+ <div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+ </div>
+ 
+<br>
+
+
+
 
 
 
